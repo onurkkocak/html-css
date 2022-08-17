@@ -1,0 +1,22 @@
+h1 {
+    color: red; 
+    font-size: 28px;
+}
+h2 {color: brown; 
+    font-size: 24px;}
+ol {color: darkred; 
+    font-size: 32px;}
+p {font-size: 28px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+ul { color: green;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fs-28 {
+    font-size: 28px;
+}
+
+.yaziyiortala {
+    text-align: center;
+}
