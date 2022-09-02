@@ -2,9 +2,9 @@ h1 {
     color: red; 
     font-size: 28px;
 }
-h2 {color: brown; 
-    font-size: 24px;}
-ol {color: darkred; 
+h2 {color: blue ; 
+    font-size:35px;}
+ol {color: black; 
     font-size: 32px;}
 p {font-size: 28px; 
     font-family: Georgia, 'Times New Roman', Times, serif;}
@@ -23,4 +23,21 @@ ul { color: green;
 
 ul {
     display: inline-block; text-align: left;
+}
+
+nav {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+    font-size: 28px;
+    text-align: center;
+
+}
+
+.flexortala{
+    display: flex; align-items: center; justify-content: center;
+}
+
+body {
+background-color: beige;
 }
